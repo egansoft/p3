@@ -1,7 +1,7 @@
 # Nicholas Egan P3: Developer's Best Friend
 
 ## Live URL
-
+<http://p3-egansoft.rhcloud.com>
 
 ## Description
 A site that generates lorem ipsum text and random users. To use, go to /loremipsum/amt or /users/amt where amt is the amount of paragraphs of lorem ipsum text or amount of users.
